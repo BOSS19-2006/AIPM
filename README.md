@@ -201,4 +201,4 @@ Designed an AI-based scoring system to rank ads using CTR, conversions, and spen
 
 - **LinkedIn:** https://www.linkedin.com/in/atharv-chaure-0a676932a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - **Email: atharv.business19@gmail.com**
-- **Portfolio:** *This Notion page*
+
