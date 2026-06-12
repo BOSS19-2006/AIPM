@@ -5,7 +5,7 @@ problems statements
 
 **Name:** Atharv Chaure
 
-**Role:** Aspiring AI Product Manager
+**Role:** Aspiring AI-First Product Manager
 
 **Background:** Computer Science & Engineering Student
 
